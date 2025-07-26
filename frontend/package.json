@@ -30,7 +30,7 @@
     "web-vitals": "^2.1.4",
     "xlsx": "^0.18.5",
     "yup": "^1.6.1",
-    "jest-worker": "^30.0.5"
+    "jest-worker": "^27.5.1"
   },
   "scripts": {
     "start": "react-scripts start",
