@@ -37,7 +37,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "postinstall": "npm install jest-worker"
+    "postinstall": "npm install jest-worker && chmod +x node_modules/.bin/react-scripts"
   },
   "devServer": {
     "allowedHosts": [
